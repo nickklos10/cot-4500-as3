@@ -1,0 +1,5 @@
+For this assignemnt there will be the requirement to download the scipy library.
+
+Instructions:
+
+pip install scipy
